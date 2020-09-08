@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Igor Telegin](https://up.htmlacademy.ru/htmlcss/29/user/1591391).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Алипкин](https://htmlacademy.ru/profile/ealipkin).
 
 ---
 
